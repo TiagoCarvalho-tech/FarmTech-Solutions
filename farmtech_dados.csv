@@ -1,0 +1,6 @@
+cultura,area_m2,area_ha,adubo,adubo_kg_ha,defensivo,defensivo_total_L,ruas,plantas_por_rua,plantas_total
+açaí,2000.00,0.2000,npk,150.0,fungicida,60.00,8,6,48
+cupuaçu,3500.00,0.3500,calcário,200.0,fungicida,87.50,10,7,70
+banana,1800.00,0.1800,potássio,120.0,inseticida,36.00,20,15,300
+mandioca,5000.00,0.5000,npk,180.0,nematicida,75.00,100,50,5000
+guaraná,4800.00,0.4800,calcário,160.0,fungicida,144.00,16,12,192
